@@ -17,39 +17,6 @@ Ensure you get fee waivers or not
 https://developer.apple.com/support/membership-fee-waiver/
 * If your app is intended for AppStore distribution, you need Apple Developer Program membership. Check the eligibility by login into developer.apple.com
 ![Image description](developer_apple_landing_page.png)
-![Image description](2_app_store_connect_landing_page.png)
-![Image description](3_new_app_app_store_connect.png)
-![Image description](4_fill_the_form.png)
-![Image description](5_1.0_prepare_for_submission_section.png)
-![Image description](6_6.7_display_screenshot.png)
-![Image description](7_6.5_display_screenshot.png)
-![Image description](8_5.5_display_screenshot.png)
-![Image description](9_2nd_gen_iPad_Pro_12.9_screenshot.png)
-![Image description](10_6th_gen_iPad_Pro_12.9_screenshot.png)
-![Image description](11_release_options.png)
-![Image description](12_app_information_section.png)
-![Image description](13_primary_category.png)
-![Image description](14_secondary_category.png)
-![Image description](15_content_rights.png)
-![Image description](16_age_rating.png)
-![Image description](17_age_rating_2.png)
-![Image description](18_age_rating_3.png)
-![Image description](19_pricing_and_availability_section.png)
-![Image description](20_pricing.png)
-![Image description](21_country_or_region_prices.png)
-![Image description](22_confirm_app_pricing.png)
-![Image description](23_country_or_region_availability.png)
-![Image description](24_tax_category.png)
-![Image description](25_pre-orders.png)
-![Image description](26_app_privacy_section.png)
-![Image description](27_data_collection.png)
-![Image description](28_data_collection_2.png)
-![Image description](29_data_collection_3.png)
-![Image description](30_testflight_section.png)
-![Image description](31_build_uploaded.png)
-![Image description](32_export_compilance_information.png)
-![Image description](33_1.0_prepare_for_submission_build_section.png)
-
 
 If you have relevant access, you will be able to see ‘Certificates, Identifiers & Profiles’ under the ‘Program resources’ section.
 If you don’t have an eligible Apple Developer Program, please do the enrollment https://developer.apple.com/programs/enroll/ (payment will be there, 99 USD or 8,700 INR per year, you may need to add this amount to your Apple ID)
@@ -61,14 +28,14 @@ If you don’t have an eligible Apple Developer Program, please do the enrollmen
 **Configure your app details in AppStoreConnect**
 * Login to App Store Connect
 * Click on “My Apps”
-
-
-
+![Image description](2_app_store_connect_landing_page.png)
 
 Click on “New App”
+![Image description](3_new_app_app_store_connect.png)
 
 
 Fill the form
+![Image description](4_fill_the_form.png)
 
 
 Platforms (Mandatory): Select at least one platform for your app. iPadOS and watchOS apps are considered part of the iOS platform.
@@ -85,31 +52,27 @@ SKU (Mandatory, can edit later): A unique ID for your app that is not visible on
 
 
 ‘1.0 Prepare for Submission’ section
-
-
-
-
+![Image description](5_1.0_prepare_for_submission_section.png)
 Screenshots must be in the JPG or PNG format, and in the RGB color space. App previews must be in the M4V, MP4, or MOV format and can’t exceed 500 MB. Learn More
 
-
+![Image description](6_6.7_display_screenshot.png)
 Screenshots dimensions for 6.7” display (mandatory): 1290x2796 (portrait) or 2796x1290 (landscape)
 
 
 
-
-
+![Image description](7_6.5_display_screenshot.png)
 Screenshots dimensions for 6.5” display (can re-use 6.7” screenshots): 1242 x 2688 (portrait) or 2688 x 1242 (landscape), 1284 x 2778 (portrait), 2778 x 1284 (landscape)
 
 
-
+![Image description](8_5.5_display_screenshot.png)
 Screenshots dimensions for 5.5” display (mandatory): 1242 x 2208 (portrait) or 2208 x 1242 (landscape)
 
 
-
+![Image description](9_2nd_gen_iPad_Pro_12.9_screenshot.png)
 Screenshots dimensions for iPad Pro (6th Gen) 12.9" display (only required if you support iPad screens): 2048 x 2732 (portrait) or 2732 x 2048 (landscape)
 
 
-
+![Image description](10_6th_gen_iPad_Pro_12.9_screenshot.png)
 Screenshots dimensions for iPad Pro (2nd Gen) 12.9" display (can re-use iPad Pro (6th Gen) 12.9" display screenshot)
 
 Promotional text (optional, character limit 170): 
@@ -168,34 +131,11 @@ You can attach specific app documentation, demo videos, and other items to help 
 
 
 Release options
+![Image description](11_release_options.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-App Information section
-
-
+**App Information section**
+![Image description](12_app_information_section.png)
 
 Name (mandatory, character limit 15): 
 The name will be reviewed before it is made available on the App Store.
@@ -204,44 +144,20 @@ Subtitle (optional, character limit 30):
 The subtitle will be reviewed before it is made available on the App Store.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Primary Category (Mandatory):
-
-
-
-
-
+![Image description](13_primary_category.png)
 
 Secondary Category (Optional):
-
-
-
-
-
-
-
-
-
+![Image description](14_secondary_category.png)
 
 Content Rights (Mandatory):
+![Image description](15_content_rights.png)
 
 Age Rating (Mandatory):
+![Image description](16_age_rating.png)
+![Image description](17_age_rating_2.png)
+![Image description](18_age_rating_3.png)
+
 Learn More
 
 
@@ -263,33 +179,26 @@ Learn More
 
 
 Pricing and Availability section
-u
+![Image description](19_pricing_and_availability_section.png)
+
 Pricing (Mandatory)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Image description](20_pricing.png)
+![Image description](21_country_or_region_prices.png)
+![Image description](22_confirm_app_pricing.png)
 
 Country or Region Availability (Mandatory)
+![Image description](23_country_or_region_availability.png)
 
 
 Tax Category (Mandatory, already pre-filled as ‘App Store software’)
+![Image description](24_tax_category.png)
 
 Pre-Orders (Optional)
+![Image description](25_pre-orders.png)
 
 
-App Privacy section
+**App Privacy section**
+![Image description](26_app_privacy_section.png)
 
 Privacy Policy URL (mandatory): 
 A URL that links to your privacy policy. A privacy policy is required for all apps.
@@ -299,51 +208,24 @@ A URL where users can modify and delete the data collected from the app, or deci
 
 
 Data collection practices (Mandatory):
+![Image description](27_data_collection.png)
+![Image description](28_data_collection_2.png)
+![Image description](29_data_collection_3.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TestFlight Section
+**TestFlight Section**
 Once the artifacts/Builds are uploaded to App Store Connect, it will appear under this section
+![Image description](30_testflight_section.png)
 
 
 Once the build is uploaded, if it's showing “Missing Compliance”, click on the yellow warning icon.
-
-
+![Image description](31_build_uploaded.png)
+![Image description](32_export_compilance_information.png)
 
 
 Once the build is ready in the TestFlight section, under “1.0 Prepare for Submission” -> Build, a button will appear to choose the build. 
-
+![Image description](33_1.0_prepare_for_submission_build_section.png)
 
 Once it’s done, click on “Add for Review”, if there is any error on metadata, it will throw a detailed error. 
 Submit for Review in the new window. And that’s it!!! Wait for the review team to respond. If you want to notice each state of the app in mobile, install AppStore Connect app in your device
 Even after submitting, you might be able to change some fields.
-Steps to upload an iOS app using Xcode IDE (Not recommended, recommended way is to automate the uploading process using pipeline or Xcode Cloud)
-
-
-Ensure Version is matching with App Store Connect portal, Also ensure, there is no build exist with the same number in TestFlight section of App Store Connect portal.
-
-
-Select the target device as “Any iOS Device”
-
-
-
-Product -> Archive
-
-
-Click on “Distribute App”
-
-
-
