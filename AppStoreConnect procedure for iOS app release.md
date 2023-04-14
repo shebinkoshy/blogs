@@ -1,4 +1,4 @@
-Steps for iOS app release to AppStore  
+AppStoreConnect procedure for iOS app release
 as per 2023 April 11
 App Store Connect: 
 An Apple portal to manage artifacts/builds, AppStore distribution, TestFlight (beta test) distribution, Analytics, Trends, Payments and financial reports, etc
