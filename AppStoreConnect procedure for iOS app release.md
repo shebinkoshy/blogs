@@ -42,7 +42,7 @@ Platforms (Mandatory): Select at least one platform for your app. iPadOS and wat
 
 
 Name (Mandatory, character limit 30, can edit later): The name of your app as it will appear on the App Store. This can't be longer than 30 characters.
-Primary Language: If localized app information isn’t available in an App Store country or region, the information from your primary language will be used instead. Learn more
+Primary Language: If localized app information isn’t available in an App Store country or region, the information from your primary language will be used instead. [Learn more](https://developer.apple.com/help/app-store-connect/manage-app-information/localize-app-store-information)
 
 
 Bundle ID (Mandatory): The bundle ID must match the one you used in Xcode. It can't be changed after you upload your first build. If you couldn’t find the bundle ID register a new bundle ID by clicking the link
