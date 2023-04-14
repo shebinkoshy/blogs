@@ -16,7 +16,7 @@ https://developer.apple.com/custom-apps/
 Ensure you get fee waivers or not
 https://developer.apple.com/support/membership-fee-waiver/
 * If your app is intended for AppStore distribution, you need Apple Developer Program membership. Check the eligibility by login into developer.apple.com
-
+![Image description](developer_apple_landing_page.png)
 If you have relevant access, you will be able to see ‘Certificates, Identifiers & Profiles’ under the ‘Program resources’ section.
 If you don’t have an eligible Apple Developer Program, please do the enrollment https://developer.apple.com/programs/enroll/ (payment will be there, 99 USD or 8,700 INR per year, you may need to add this amount to your Apple ID)
 * If the client already has an organization type Apple Developer Program. Your Apple ID can be added as an admin user to get all the necessary access to do all the process. Client/AccountHolder can add you as an admin from “Users and Access” section in App Store Connect
