@@ -44,11 +44,11 @@ https://developer.apple.com/support/membership-fee-waiver/
 ![Image description](26_app_privacy_section.png)
 ![Image description](27_data_collection.png)
 ![Image description](28_data_collection_2.png)
-![Image description](29_data collection_3.png)
+![Image description](29_data_collection_3.png)
 ![Image description](30_testflight_section.png)
 ![Image description](31_build_uploaded.png)
 ![Image description](32_export_compilance_information.png)
-![Image description](33_1.0_prepare_for_…ission_build_section.png)
+![Image description](33_1.0_prepare_for_submission_build_section.png)
 
 
 If you have relevant access, you will be able to see ‘Certificates, Identifiers & Profiles’ under the ‘Program resources’ section.
