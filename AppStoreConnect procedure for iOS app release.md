@@ -53,7 +53,7 @@ SKU (Mandatory, can edit later): A unique ID for your app that is not visible on
 
 ‘1.0 Prepare for Submission’ section
 ![Image description](5_1.0_prepare_for_submission_section.png)
-Screenshots must be in the JPG or PNG format, and in the RGB color space. App previews must be in the M4V, MP4, or MOV format and can’t exceed 500 MB. Learn More
+Screenshots must be in the JPG or PNG format, and in the RGB color space. App previews must be in the M4V, MP4, or MOV format and can’t exceed 500 MB. [Learn More](https://developer.apple.com/help/app-store-connect/manage-app-information/upload-app-previews-and-screenshots)
 
 ![Image description](6_6.7_display_screenshot.png)
 Screenshots dimensions for 6.7” display (mandatory): 1290x2796 (portrait) or 2796x1290 (landscape)
@@ -108,7 +108,7 @@ The name of the person or entity that owns the exclusive rights to your app, pre
 
 
 Routing App Coverage File (optional):
-Specify the geographic regions supported by your app. The file must be in the .geojson format and can only contain one MultiPolygon element. Learn More
+Specify the geographic regions supported by your app. The file must be in the .geojson format and can only contain one MultiPolygon element. [Learn More](https://developer.apple.com/help/app-store-connect/reference/platform-version-information)
 
 
 AppClip section (applicable only if you need to support AppClip for your app)
@@ -158,25 +158,7 @@ Age Rating (Mandatory):
 ![Image description](17_age_rating_2.png)
 ![Image description](18_age_rating_3.png)
 
-Learn More
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Learn More](https://developer.apple.com/help/app-store-connect/reference/age-ratings/)
 
 Pricing and Availability section
 ![Image description](19_pricing_and_availability_section.png)
