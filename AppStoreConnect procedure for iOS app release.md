@@ -1,33 +1,32 @@
-AppStoreConnect procedure for iOS app release
+**AppStoreConnect procedure for iOS app release**
 as per 2023 April 11
-App Store Connect: 
+
+_App Store Connect: _
 An Apple portal to manage artifacts/builds, AppStore distribution, TestFlight (beta test) distribution, Analytics, Trends, Payments and financial reports, etc
 
-Developer Certificate, Identifier & Profiles: 
+_Developer Certificate, Identifier & Profiles: _
 An Apple portal to manage Developer certificates like APNs certificates, Provisioning profile, devices for adhoc distribution, APNs key, etc
 
-Prerequisites
-Apple ID (email & password used to login to any apple’s portal)
-Ensure the targeted users of your app are public, otherwise you may lead to rejection from Apple’s app review team. For example, if your targeted users are employees of an organization, you have to go with Apple Developer Enterprise Program rather than Apple Developer Program.
+**Prerequisites**
+* Apple ID (email & password used to login to any apple’s portal)
+* Ensure the targeted users of your app are public, otherwise you may lead to rejection from Apple’s app review team. For example, if your targeted users are employees of an organization, you have to go with Apple Developer Enterprise Program rather than Apple Developer Program.
 Go through different type of memberships of Apple
 https://developer.apple.com/support/compare-memberships/
 https://developer.apple.com/custom-apps/
 Ensure you get fee waivers or not
 https://developer.apple.com/support/membership-fee-waiver/
-If your app is intended for AppStore distribution, you need Apple Developer Program membership. Check the eligibility by login into developer.apple.com
-
-
+* If your app is intended for AppStore distribution, you need Apple Developer Program membership. Check the eligibility by login into developer.apple.com
 
 If you have relevant access, you will be able to see ‘Certificates, Identifiers & Profiles’ under the ‘Program resources’ section.
 If you don’t have an eligible Apple Developer Program, please do the enrollment https://developer.apple.com/programs/enroll/ (payment will be there, 99 USD or 8,700 INR per year, you may need to add this amount to your Apple ID)
-If the client already has an organization type Apple Developer Program. Your Apple ID can be added as an admin user to get all the necessary access to do all the process. Client/AccountHolder can add you as an admin from “Users and Access” section in App Store Connect
-Xcode IDE or pipeline setup for uploading xcarchive file to App Store Connect
+* If the client already has an organization type Apple Developer Program. Your Apple ID can be added as an admin user to get all the necessary access to do all the process. Client/AccountHolder can add you as an admin from “Users and Access” section in App Store Connect
+* Xcode IDE or pipeline setup for uploading xcarchive file to App Store Connect
 
 
 
-Configure your app details in AppStoreConnect
-Login to App Store Connect
-Click on “My Apps”
+**Configure your app details in AppStoreConnect**
+* Login to App Store Connect
+* Click on “My Apps”
 
 
 
